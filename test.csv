@@ -1,0 +1,4 @@
+input,output
+"What is artificial intelligence?", "Artificial intelligence is the simulation of human intelligence in machines."
+"Define machine learning.", "Machine learning is a subset of AI that involves training algorithms on data to make predictions or decisions."
+"What is reinforcement learning?", "Reinforcement learning is a type of ML where agents learn by interacting with an environment and receiving feedback."
